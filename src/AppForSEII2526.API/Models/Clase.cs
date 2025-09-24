@@ -4,7 +4,7 @@
     {
        public class()
         {
-            //DATA, Segundo comentario añadido 
+            //DATA, Segundo comentario añadido.
         }
     }
 }
